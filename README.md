@@ -24,6 +24,10 @@ Proyek ini mengimplementasikan pengujian otomatis untuk Api menggunakan restassu
 - `src/main/java/Page`: Berisi kelas Model Objek Halaman.
 - `src/test/java/Step`: Berisi kelas Step Definitions untuk implementasi langkah-langkah pengujian.
 
+## Report
+- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/mini_project_api_with_java_POM_cucumber/blob/main/ZmcunlXWr2.png)
+
+
 
 
 
